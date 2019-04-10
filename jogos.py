@@ -1,5 +1,4 @@
-import jogos.forca
-import jogos.adivinhacao
+
 
 print("********************************")
 print("*******Escolha o seu jogo*******")
